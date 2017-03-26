@@ -10,7 +10,7 @@ header {
 }
 
 header .row {
-  margin-top: 0.6em;  
+  margin-top: 0.6em;
 }
 
 h1 {
@@ -32,7 +32,7 @@ main {
 main .box {
   height: auto;
   text-align: center;
-  outline: 1px solid grey;
+  outline: 1px solid rgb(238, 238, 238);
   margin-bottom: 1.5em;
 }
 
@@ -50,10 +50,10 @@ ul {
 .caption {
   text-align: left;
   padding: 1em 1em 1em 1em;
+  font-size: 1rem;
 }
 
 .caption .name {
-  font-size: 1rem;
   font-weight: bold;
   margin: 0;
 }
